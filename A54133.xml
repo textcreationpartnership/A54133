@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine right of kings asserted in general, ours in particular, both by the laws of God, and this land by W.P. Esq.</title>
+            <author>W. P., Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54133</idno>
+            <idno type="STC">Wing P128</idno>
+            <idno type="STC">ESTC R5375</idno>
+            <idno type="EEBO-CITATION">13084378</idno>
+            <idno type="OCLC">ocm 13084378</idno>
+            <idno type="VID">97282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine right of kings asserted in general, ours in particular, both by the laws of God, and this land by W.P. Esq.</title>
+                  <author>W. P., Esq.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings.</term>
+               <term>Great Britain --  Kings and rulers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97282:1" rendition="simple:additions"/>
+            <head>THE DIVINE RIGHT OF KINGS Aſſerted in General: Ours in Particular; both by the LAWS of GOD, and this LAND.</head>
+            <byline>By <hi>W.</hi> P. <abbr>Eſq</abbr>
+            </byline>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Pet. II. XVII.</hi>
+                  </bibl>
+                  <p>Fear God, Honour the King.</p>
+               </q>
+            </epigraph>
+            <p>KINGS are <hi>Jure Divino,</hi> by Divine Right to be obeyed, and not by violent force of Subjects to be reſiſted, although they act wickedly, Prov. 8.15. <hi>By me Kings Reign,</hi> Dan. 2.21. <hi>He removeth Kings and ſet<g ref="char:EOLhyphen"/>teth up Kings.</hi> Prov. 16.10. <hi>A Divine ſentence is in the lips of the King.</hi> Prov. 21.1. <hi>The King's Heart is in the hand of the Lord.</hi> Job 34.18. <hi>Is it fit to ſay to a King thou art wicked, and to Princes, ye are ungodly?</hi> Prov. 24.21. <hi>Fear thou the Lord and the King, and meddle not with them that are given to change.</hi> Eccleſ. 8.2. <hi>I Counſel thee to keep the King's Commandement,</hi> Exod. 22.28. <hi>Thou ſhalt not ſpeak evil of thy Prince, nor detract the Magiſtrate.</hi> 2 Pet. 2.17, <hi>Fear God, Honour the King.</hi> Eccleſ. 10.20. <hi>Curſe not the King, no not in thy thought.</hi> 1 Sam. 24.6. <hi>The Lord forbid that I ſhould do this thing unto my Maſter, the Lord's Anointed, to ſtretch forth my hand againſt him, ſeeing he is the Lord's anointed.</hi> It is God that hath
+<pb n="2" facs="tcp:97282:2"/>placed Kings in their Thrones for ever, their Commiſſion is Sealed by the Hand of God, though it run during his good Will and Pleaſure. The wiſe Heathen could ſay, That the Power of good Kings is by the ſpecial Ordinance of God, of evil ones by his Permiſſion. The firſt are Badges and Pledges of his Mercy, the ſecond of his Fury. A Father hath a Divine Power to Rule his Son, a Maſter his Servant, elſe the Scripture had never made Divine Injunctions, inveſting them with Rights of Abſolute Power over them, and yet the Scripture alſo ſignifie that notwithſtanding thoſe Rights are Divine, there are Obligations alſo upon the Father and Maſter, to the Son and Servant, ſuch a Paternal, Abſo<g ref="char:EOLhyphen"/>lute, Divine Right it is that the Kings of <hi>England</hi> have claimed and exerciſed over their Subjects, as that in all times <hi>(Lex Currit)</hi> the Laws have generally run in courſe for the preſervation of all the Rights and Liberties of the People, as well as thoſe of the Crown.</p>
+            <p>From which Premiſſes none, unleſs thoſe who deny the Scripture, can deny theſe Conſequences, That the <hi>Jura regalia</hi> of Kings are holden in Heaven, and cannot for any cauſe eſcheat to their Subjects: that active obedience is to be yielded to the King as Supream, in <hi>omnibus licitis,</hi> in all things lawful. But if God for the Puniſhment of a Nation, ſhould ſet up a Tyrannical King, <hi>Secundum voluntatem pravam non rationem rectam regentem,</hi> Governing by his depraved Will againſt Reaſon, and commanding things contrary to the Word of God, we muſt not by force of Arms Rebel againſt him; but rather than ſo (if not pre<g ref="char:EOLhyphen"/>vailing by Petition unto him or, eſcaping by flight from him) patiently ſub<g ref="char:EOLhyphen"/>ject to the loſs of our Lives and Eſtates, and in that caſe, <hi>arma noſtra ſunt preces noſtrae, nec poſſimus, nec decemus aliter reſistere,</hi> our Prayers and Tears ſhould fight, and not our Swords: for who can lift up his Hand againſt the Lord's anointed, and be guiltleſs? this in Scripture we find practiced by God's People to <hi>Pharaoh, Exod,</hi> 5.1. and the ſame People to <hi>Nebuchad-nezzer,</hi> a Ty<g ref="char:EOLhyphen"/>rant, were commanded to perform Obedience, and to Pray for him, though there was no wickedneſs almoſt which he was not guilty of. His Succeſſor <hi>Darius, Daniel</hi> obeyed, and ſaid, <hi>O King live for ever, Daniel</hi> 6.21. for now no private perſon hath with <hi>Ehud, Judges</hi> 3.31. extraordinary Commandment from God to kill Princes, nor no perſonal Warrant from God, as all ſuch perſons had, who attempted any thing againſt the Life even of Tyrants, <hi>Nil ſine prudenti fecit ratione vetuſtas.</hi>
+            </p>
+            <p n="2">2. The King hath His Title to the Crown, and to His Kingly Office and Power, not by way of Truſt from the People, but by inherent Birth-right, immediately from God, Nature, and the Law, 1. <hi>Reg. Jac.</hi> 1. <hi>lib.</hi> 7.12. <hi>Calvin</hi>'s Caſe.</p>
+            <p n="3">3. <hi>Rex Angliae eſt perſona mixta, cum ſacerdote,</hi> ſay our Lawyers, He is a Prieſt as well as a King; he is anointed with Oyl, as the Prieſts were at firſt, and afterward the Kings of <hi>Iſrael;</hi> to intimate that his Perſon is Sacred and Spiritual, and therefore at the Coronation, hath put upon him a Sacerdotal Garment, called the <hi>Dalmatica,</hi> or <hi>Colobium,</hi> and other Prieſtly Veſts: and alſo before the Reformation of <hi>England,</hi> when the Cup in the Sacrament was denyed to the <hi>Laity,</hi> the King, as a Spiritual Perſon, received in both kinds. By theſe and the Scripture Proof, it is clear to any unprejudiced perſon, That they have their Power from God; and are Accountable to none but him for the good or bad uſe they make of it.</p>
+            <p n="4">4. The Law of Royal Government, is a Law Fundamental, 1 <hi>Pars Inſtitut. Eol.</hi> 11.</p>
+            <p n="5">5. The King's Prerogative and the Subjects Liberty are determined, and bounded by the Law, <hi>Bracton, fol.</hi> 134. <hi>Plouden, fol.</hi> 236, 237.</p>
+            <pb n="3" facs="tcp:97282:2"/>
+            <p n="6">6. By Law no Subjects can call their King in queſtion, to anſwer for his Acti<g ref="char:EOLhyphen"/>ons, be they good or bad, <hi>Bracton, fol.</hi> 5, 6. If any one hath cauſe of Action againſt the King (becauſe there is no Writ runneth againſt him) his only Re<g ref="char:EOLhyphen"/>medy is by Supplication and Petition to the King, that he would vouchſafe to Correct and Amend that which he hath done, which if he refuſe to do, only God is to Revenge and Puniſh him, which is puniſhment enough, no man ought to preſume to diſpute the King's Actions, much leſs to Rebel againſt him.</p>
+            <p n="7">7. The King hath no Superiour but the Almighty God; all His People are in<g ref="char:EOLhyphen"/>feriour to him, he inferiour to none but God. Which thing made <hi>David</hi> cry out, <hi>Againſt thee only have I ſinned:</hi> which ſhews that he was not afraid to be call'd to an Account by the People, (as our new <hi>Presbyterian</hi> States-men pretend) he was not to give a reaſon of all his Actions to them.</p>
+            <p n="8">8. The King is <hi>caput reipublicae,</hi> the Head of the Common-wealth immediately under God, <hi>Finch</hi> 81.</p>
+            <p>And therefore carrying God's ſtamp and mark among men, and being, as one may ſay, a God upon Earth, as God is a King in Heaven, in a ſimilitudinary ſort given him. <hi>(Bracton, fol.</hi> 5. <hi>Cum ſit dei vicarius, evidenter apparet ad ſimilitudinem Jeſu Chriſti, cujus vices geret in terris</hi>) that is to ſay—
+<list>
+                  <item>1. Divine Perfection:</item>
+                  <item>2. Infinitneſs.</item>
+                  <item>3. Majeſty.</item>
+                  <item>4. Sovereignty and Power.</item>
+                  <item>5. Perpetuity.</item>
+                  <item>6. Juſtice.</item>
+                  <item>7. Truth.</item>
+                  <item>8. Omniſcience.</item>
+               </list>
+            </p>
+            <p n="1">1. Divine Perfection in the King; no imperfect thing can be thought, no folly, negligence, infamy, ſtain or corruption of blood can be adjudged in him; So <hi>nullum tempus occurrit regi.</hi>
+            </p>
+            <p n="2">2. Infiniteneſs; the King in a manner is every where, and preſent in all Courts, and therefore it is that he cannot be non-ſuited, and that all Acts of Parliament that concern the King are general; and the Court muſt take notice without pleading them, for he is in all, and all have their part in him. <hi>Fitz. Urb.</hi> 21. <hi>H.</hi> 8. <hi>Br. tit.</hi> non-ſuit. 68.</p>
+            <p n="3">3. Majeſty; the King, cannot take nor part from any thing, but by matter of Record, and that in reſpect of his Majeſty, unleſs Chattel, or the like; becauſe, <hi>de minimis non curat lex,</hi> 5 <hi>Ed:</hi> 4.7.4 <hi>Ed.</hi> 6.31.2 <hi>H.</hi> 4.7.</p>
+            <p n="4">4. Soveraignty and Power; all the Land is holden of the King, no Action lyeth againſt him, for who can command the King? he may compel his Subjects to go out of the Realm to War, hath abſolute Power over all; for by a clauſe of <hi>non obſtante,</hi> he may diſpenſe with a Statute, though the Statute ſay, ſuch diſpenſation ſhall be meerly void. 7 <hi>E.</hi> 4.17.21. <hi>Calvin</hi>'s Caſe.</p>
+            <p>
+               <hi>Bracton, Rex habet poteſtatem Juriſdictionum ſuper omnes qui in regno ſuo ſunt. Eaquae ſunt Juriſdictionis, &amp; pacis ad nullam pertinent niſi ad regiam dignitatem: habet etiam coertionem, ut delinquentes puniat &amp; coerceat;</hi> And therefore ought to have the <hi>Militia.</hi>
+            </p>
+            <p n="5">5. Perpetuity; The King hath a perpetual Succeſſion, and never dieth, for in Law it is called the <hi>demiſe</hi> of the King, and there is no <hi>Inter-regnum.</hi> A gift to the King goeth to his Succeſſors, though not named, for he is a Corporation of himſelf, and hath two capacities, (to wit) a Natural Body, in which he may inherit to any of his Anceſtors, or purchaſe Lands to him, and the Heirs of his Body, which he ſhall retain, although he be afterwards removed from his Royal Eſtate; and Body Politick, in which he may purchaſe to him and his Heirs, Kings
+<pb n="4" facs="tcp:97282:3" rendition="simple:additions"/>of <hi>England,</hi> or to him and his Succeſſors, yet both Bodies make but one individual Body. <hi>Plowden</hi> 213.233.242. <hi>lib.</hi> 7.12.</p>
+            <p n="6">6. Juſtice; The King can do no wrong, therefore cannot be a Diſſeiſor, he is all Juſtice, <hi>veritas &amp; juſtitia,</hi> ſaith <hi>Bracton, circa ſolium ejus,</hi> they are the two Supporters that do hold up his Crown; he is <hi>medious regni, pater patriae, ſponſus regni qui per annulum,</hi> is eſpouſed to his Realm at his Coronation, he is Gods Lieu<g ref="char:EOLhyphen"/>tenant, and is not able to do any unjuſt thing. 4 <hi>E.</hi> 4.25. <hi>Potentia Injuriae eſt impo<g ref="char:EOLhyphen"/>tentia naturae.</hi> His Miniſters may offend, and therefore to be puniſhed if the Laws are violated, but not he.</p>
+            <p n="7">7. Truth; The King ſhall never be ſtopped, Judgment final in a Writ of right ſhall not conclude him. 18 <hi>E.</hi> 3.38.20 <hi>E.</hi> 3. <hi>Fitz. Droit.</hi> 15.</p>
+            <p n="8">8. Omniſcience; When the King licenceth expreſly to <hi>alienate</hi> an <hi>Abbot,</hi> &amp;c. which is in <hi>mortmain,</hi> he needs not make any <hi>non obſtante</hi> of the Statutes of <hi>mortmain,</hi> for it is apparent to be of the Law, and therefore ſhall not be intended <hi>miſconu<g ref="char:EOLhyphen"/>ſant</hi> of the Law, for <hi>praeſumitur rex habere omnia Jura in ſcrinio pectoris ſui.</hi> 2 <hi>Inſt.</hi> 99. and therefore ought to have a Negative Voice in Parliament, for he is the Foun<g ref="char:EOLhyphen"/>tain of Juſtice ftom whence the Law floweth. For no King can be named in any time made in this Kingdom by the People; a Parliament never made Kings, for they were Kings before; and Parliaments themſelves are Summoned by the King's Writ.</p>
+            <p>High Treaſon can be committed againſt none, but the King's Sacred Perſon, neither is any thing High Treaſon, but what is declared ſo to be by the Statute. 25 <hi>Ed.</hi> 3. <hi>c.</hi> 21. to levy War againſt the King, to compaſs or imagin his Death, or the Death of his Queen, or of his Eldeſt Son, to Counterfeit his Money, or his Great Seal, to Impriſon the King until he agree to certain Demands, to Levy War, to alter Religion, or the Law, to remove Counſellors by Arms, or the King from his Counſellors, be they evil or good, by Arms to ſeize the King's Forts, Ports, Magazine of War, to Depoſe the King, or to adhere to any State within or without the Kingdom, but the King's Majeſty, is High Treaſon, for which the Offenders have Judgment,</p>
+            <p>Firſt, To be drawn to the Gallows.</p>
+            <p>Secondly, There to be hang'd by the Neck, and cut down alive.</p>
+            <p>Thirdly, His Intrails to be taken out of his Belly, and he being alive to be burnt before him.</p>
+            <p>Fourthly, That his Head ſhould be cut off.</p>
+            <p>Fifthly, That his Body ſhould be cut in four parts.</p>
+            <p>Sixthly, That his Head and his Quarters ſhould be put where the King our Sovereign Lord pleaſeth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
